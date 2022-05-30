@@ -21,7 +21,6 @@ public class FilterDemo1 {
 		
 	*/
 		
-		
 		List<Integer> numbersList = Arrays.asList(10,15,20,25,30,35);
 		List<Integer> evenNumbersList = new ArrayList<Integer>();
 		
